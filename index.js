@@ -1,0 +1,5 @@
+DB_HOST="localhost"
+DB_USER="aaaa"
+DB_PORT="9999"
+DB_PASS="9999"
+DB_NAME="awesomedb"
